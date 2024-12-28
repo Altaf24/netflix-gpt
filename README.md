@@ -27,7 +27,13 @@
 - Fetch Data for Trailer Video
 - Update Store with Trailer Video Data
 - Embedded the youtube video and make it autoplay and mute
-
+- Build Secondary Container with Movie Suggestions
+- Build Movie List
+- Build Movie Card
+- TMDB Image CDN URL
+- Made the Home Page Responsive
+- usePopularMpvies custom hook
+- useTopRatedMovies custom hook
 
 # Features
 - Login/Signup Page
