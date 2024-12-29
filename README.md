@@ -34,6 +34,12 @@
 - Made the Home Page Responsive
 - usePopularMpvies custom hook
 - useTopRatedMovies custom hook
+- GPT Search Feature
+- Build Multi-Language Feature
+- GPT Search Page
+- GPT Search Bar
+
+
 
 # Features
 - Login/Signup Page
